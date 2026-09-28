@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/bindunit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bind list/unit set operations for shell-friendly data wrangling.",
+  "bin": {
+    "bindunit": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/bindunit.git"
+  },
+  "homepage": "https://theworker02.github.io/bindunit/",
+  "keywords": [
+    "bind",
+    "unit",
+    "list",
+    "cli",
+    "toolkit"
+  ]
+}
